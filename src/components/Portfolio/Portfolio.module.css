@@ -1,0 +1,11 @@
+.title{
+    margin-left:5% ;
+    margin-top: 5% ;
+}
+
+.content {
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

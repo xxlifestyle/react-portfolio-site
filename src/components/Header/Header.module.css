@@ -1,0 +1,12 @@
+.header_items{
+
+
+    margin-top:20px ;
+    list-style: none;
+    display: flex;
+    width: 60%;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 18px;
+
+}
